@@ -1,4 +1,4 @@
-# VedaSoul
+# VedaSoul-Project
 VedaSoul is a pioneering project aimed at seamlessly connecting individuals passionate about Ayurveda with resources, knowledge, and services that nurture their holistic well-being.
 
 Our platform acts as a bridge, fostering connections between Ayurveda enthusiasts and a diverse range of facilities, practitioners, and wellness offerings, facilitating a deeper engagement with this ancient healing tradition.
